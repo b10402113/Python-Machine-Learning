@@ -1,5 +1,5 @@
 # Python機器學習入門 - 期中專題
-透過Scrapy抓取1111及104的資料
+透過Scrapy抓取1111及104的資料，並使用matplotlib與pandas做分析
 ## 一、安裝Scrapy
 首先，在指定的目錄下，輸入：
 ```
